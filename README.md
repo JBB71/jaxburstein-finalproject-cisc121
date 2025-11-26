@@ -19,6 +19,8 @@ Abstraction:
  - To not overwhelm the user:
    - Only display the pivot and one element
    - Only offer left or right as an option for the user
+![IMG_0077](https://github.com/user-attachments/assets/58bdfd06-0449-4730-b063-5eb4b9b6b4cb)
+
 
 ## Steps to Run
 ## Hugging Face Link
