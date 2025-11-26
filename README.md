@@ -11,14 +11,17 @@ Decomposition:
  - If the user is correct then tell them and append their choice into the new list
  - If user is wrong tell them why and tell them to try again
  - Display the final sorted list and tell user how accurate they were
+
 Pattern Recognition:
  - Select pivots each time
  - Compare elements to the pivot
  - Partition into left and right subarrays
+
 Abstraction:
  - To not overwhelm the user:
    - Only display the pivot and one element
    - Only offer left or right as an option for the user
+ 
 ![IMG_0077](https://github.com/user-attachments/assets/58bdfd06-0449-4730-b063-5eb4b9b6b4cb)
 
 
