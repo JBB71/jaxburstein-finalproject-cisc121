@@ -43,4 +43,5 @@ https://huggingface.co/spaces/JBB71/CISC121-FinalProject/tree/main
 Jax Burstein
 CISC 121 — Final Project
 Queen’s University
+
 Acknowledgment: Gradio for its library ChatGPT for assistance with debugging and documentation
