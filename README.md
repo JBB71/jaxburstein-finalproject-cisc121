@@ -31,7 +31,7 @@ Abstraction:
 4. Look at what the current element is
 5. Choose whether the current element is either greater or less than the pivot element by choosing left partition or right partition
 6. Pick left or right until final array is sorted
-<img width="1413" height="655" alt="Screenshot 2025-11-29 at 11 53 27 AM" src="https://github.com/user-attachments/assets/5a524c46-7fbc-4c16-b48d-98d530231992" />
+
 <img width="1424" height="669" alt="Screenshot 2025-12-06 at 6 19 47 PM" src="https://github.com/user-attachments/assets/357ad63e-75d5-427b-bc44-6039c90e1e4e" />
 <img width="1438" height="682" alt="Screenshot 2025-12-06 at 6 19 58 PM" src="https://github.com/user-attachments/assets/de822b6b-fcec-4ef2-bc87-c10dd86406e4" />
 <img width="1438" height="680" alt="Screenshot 2025-12-06 at 6 21 07 PM" src="https://github.com/user-attachments/assets/92405b67-ce69-4c3c-9d98-4e23b1698b07" />
